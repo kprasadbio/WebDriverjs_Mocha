@@ -1,0 +1,32 @@
+{
+  "name": "webdriverjs",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^83.0.0",
+    "geckodriver": "^1.19.1",
+    "mocha": "^8.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "webdriver-manager": "^12.1.7"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  },
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kprasadbio/WebDriverjs_Mocha.git"
+  },
+  "keywords": [
+    "webdriverjs"
+  ],
+  "author": "L V Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kprasadbio/WebDriverjs_Mocha/issues"
+  },
+  "homepage": "https://github.com/kprasadbio/WebDriverjs_Mocha#readme"
+}
